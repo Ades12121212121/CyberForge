@@ -1,7 +1,7 @@
 
 # Bienvenido a CyberForge: Tu Escuela Privada de Ciberseguridad
 
-![CyberForge Banner](https://via.placeholder.com/1200x400?text=CyberForge+-+Laboratorio+de+Ciberseguridad+Personalizado)
+![CyberForge Banner](https://cdn.qwenlm.ai/output/da7af6ec-8883-4beb-8396-6b3457b1f8d4/t2i/ed93ec7e-cd32-46fc-8e97-687530f2780b/d5695b6c-9309-4afd-9625-f92881de9b76.png?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZXNvdXJjZV91c2VyX2lkIjoiZGE3YWY2ZWMtODg4My00YmViLTgzOTYtNmIzNDU3YjFmOGQ0IiwicmVzb3VyY2VfaWQiOiJkNTY5NWI2Yy05MzA5LTRhZmQtOTYyNS1mOTI4ODFkZTliNzYiLCJyZXNvdXJjZV9jaGF0X2lkIjpudWxsfQ.oaaTB532lYFhyegfwIYveNSVgtl3N-xp-qRAwB5voa4)
 
 ## ¿Qué es CyberForge?
 
